@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+    <title>Find the precious</title>
+    <link href="styles.css" rel="stylesheet">
+ </head>
+
+ <body>
+    <header>
+        <h1>FindThePrecious.com</h1>
+        <nav>
+        	<ul>
+        		<li> <a href="#fellows">Fellows </a> </li>
+        		<li> <a href="#Wizard"> The Ring </a></li>
+        		<li> <a href="#Ring"> Get my reward </a></li>
+        		<li> <a href="#Besthunters"> Best hunters </a> </li>
+        		<li> <a href="#Join"> Join the army </a></li>
+        		<li> <a href="#Contact"> Contact us </a></li>
+        	</ul>
+        </nav>
+        <img src="https://via.placeholder.com/650x400" alt="Image">
+        <p>Dangeroux fellowship try to destroy the ring: Orc, Goblons, balrogs, protect your master Sauron! </p>
+    </header>
+
+    		<section id="fellows">
+       		 <h2>Fellows</h2>
+        			<p>wanted dead(or alive if you want to eat them later</p>
+        	<ul>
+        		<li>Most wanted</li>
+        		<li>Most dangerous</li>
+        		<li>already captured</li>
+        	</ul>
+        	</section>
+
+        	<section id="Wizard">
+        		<h3>The Wizard</h3>
+        			<p> <img src="https://via.placeholder.com/150" alt="most wanted"></p>
+        			<p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+        		tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+        		quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+        		consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+        		cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+        		proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </p>
+        		<h3>Hobit #3</h3>
+        			<p> <img src="https://via.placeholder.com/150" alt="Hobbit #3"></p>
+        			<p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+        		tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+        		quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+        		consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+        		cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+        		proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </p>
+        		<h3>Yummy Dwarf</h3>
+        			<p> <img src="https://via.placeholder.com/150" alt="Yummy Dwarf"></p>
+        			<p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+        		tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+        		quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+        		consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+        		cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+        		proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </p>
+        	</section>
+
+        	<section id="Ring">
+        		<h2>The Ring</h2>
+        			<p>I have captured one of them, how to get my reward</p>
+        			<p> <img src="https://via.placeholder.com/140" alt="Yummy Dwarf"></p>
+        			<p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+        		tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+        		quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+        		consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+        		cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+        		proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </p>
+        			<a href="#Contact_us">Contact us</a>
+        	</section>
+
+        	<section id="Besthunters">
+        		<h2>Best hunters</h2>
+        			<p> <img src="https://via.placeholder.com/70" alt="photo elves kikker 22"></p>
+        			<p>ElvesKiller22</p><a href="#profileElves">Profile</a>
+        			<p> <img src="https://via.placeholder.com/70" alt="Goblin45"></p>
+        			<p>Goblin45</p><a href="#profileGoblin">Profile</a>
+        	</section>
+
+        	<section>
+        		<h2>About the Ring</h2>
+        		<h3>Ring capabilities</h3>
+        		<table>
+        			<thead>
+        				<tr>
+        					<th>Features</th>
+        					<th>Description</th>
+        				</tr>
+        			</thead>
+        			<tbody>
+        				<tr>
+        					<td>Main</td>
+        					<td>One ring tu rules them all</td>
+        				</tr>
+        				<tr>
+        					<td>Invisibility</td>
+        					<td>You can't see me</td>
+        				</tr>
+        				<tr>
+        					<td>Power</td>
+        					<td>Destroy the world</td>
+        				</tr>
+        			</tbody>
+        		</table>
+        		<h3>Why the ring is awesome</h3>
+        		<p>My precioooooousssssssss! Hrk Hrk, we want our preecioooooouuussss !!<img src="https://via.placeholder.com/110" alt="the ring"> </p>
+        	</section>
+
+        	<section id="Join">
+        		<h2>Join the Mordor</h2>
+        		<p><img src="https://via.placeholder.com/110" alt="Mordor"></p> 
+        		<p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+        		tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+        		quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+        		consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+        		cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+        		proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </p>
+        		<a href="#moreinfo">More info on Sauron Rules Them All.com</a>
+        	</section>
+
+        	<section id="Contact" >
+        		<h2>Contact Us</h2>
+        			<form method="post" action="Contact.php">
+        				<p>
+        					<label for="mail"></label><input type="email" name="mail" id="mail">
+        					<label for="adress"></label><input type="text" name="adress" id="adress">
+        					<select name="select">
+                    			 <option>I have seen one of them</option>
+                    			 <option>I have any question</option>
+                    		</select>
+        					<textarea name="message" id="message"></textarea>
+        					<input type="submit" value="send" />
+        				</p>	
+        			</form>
+        	</section>
+        	<footer>
+        		<a href="https://www.google.com"> About Us </a>
+        		<a href="https://www.google.com"> Fellows </a>
+        		<a href="https://www.google.com"> Join our army</a>
+        		<a href="https://www.google.com"> FAQ </a>
+        		<a href="https://www.google.com"> Reward conditions  </a>
+        		<a href="https://www.google.com"> Legal mentions </a>
+        		<a href="https://www.google.com"> Sauron4Ever.com </a>
+        		<a href="https://www.google.com"> AFollow him also on twitter </a>
+        	</footer>
+
+ </body>
+ 
+ </html>
